@@ -1,0 +1,3 @@
+/Users/aix/CLionProjects/tilted20/cmake-build-debug/CMakeFiles/tilted20.dir
+/Users/aix/CLionProjects/tilted20/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aix/CLionProjects/tilted20/cmake-build-debug/CMakeFiles/rebuild_cache.dir
